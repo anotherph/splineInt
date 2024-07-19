@@ -1,6 +1,6 @@
 ## 1. install modules
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 ## 2. run main file
