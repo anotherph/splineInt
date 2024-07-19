@@ -1,9 +1,9 @@
-1. install modules
+## 1. install modules
 
   pip install -r requirements.txt
 
 
-2. run main file
+## 2. run main file
 
     python spline_int_nodeRed.py --dir ./input_sample.csv --intval 10
 
