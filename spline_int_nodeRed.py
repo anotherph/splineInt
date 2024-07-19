@@ -7,7 +7,7 @@ import argparse
 from datetime import datetime, timedelta
 import pandas as pd
 
-matplotlib.use('TkAgg')  # 또는 'Qt5Agg', 'WXAgg' 등
+# matplotlib.use('TkAgg')  # 또는 'Qt5Agg', 'WXAgg' 등
 
 def loadData(str_dir):
     global x_t, y_t
