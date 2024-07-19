@@ -7,7 +7,7 @@
 
     python spline_int_nodeRed.py --dir ./input_sample.csv --intval 10
 
-    or 
+  or 
 
     python3 spline_int_nodeRed.py --dir ./input_sample.csv --intval 10
 
