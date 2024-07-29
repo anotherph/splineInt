@@ -11,5 +11,5 @@
 
     python3 spline_int_nodeRed.py --dir ./input_sample.csv --intval 10
 
-   1) --dir : direction of input data
+   1) --dir : directory of input data
    2) --intval : interpolation interval (min) 
